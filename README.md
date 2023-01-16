@@ -23,3 +23,7 @@ https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/programa/quantita
 ## Podcasts 
 
 - Fronteiras da Engenharia de Software https://fronteirases.github.io/
+
+## Pesquisadores e pesquisadoras brasileiros(as) trabalhando no exterior
+
+https://github.com/adolfont/brazilian-cs-research/blob/master/brazilian-cs-researchers-working-abroad.md
