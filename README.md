@@ -19,3 +19,7 @@ Toda universidade ou instituto federal tem um site onde lista seus editais de co
 
 Cursos Avaliados e Reconhecidos. Acesse
 https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/programa/quantitativos/quantitativoBuscaAvancada.xhtml e selecione "Ciência da Computação" em "Área de Avaliação".
+
+## Podcasts 
+
+- Fronteiras da Engenharia de Software https://fronteirases.github.io/
