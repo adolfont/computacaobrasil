@@ -1,5 +1,7 @@
 # Computação Brasil
 
+Lista de links e recursos relativos à área acadêmica de Ciência da Computação no Brasil.
+
 ## Lista de e-mail
 
 https://groups.google.com/g/computacaobrasil
