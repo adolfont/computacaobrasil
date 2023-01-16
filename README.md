@@ -14,6 +14,10 @@ Toda universidade ou instituto federal tem um site onde lista seus editais de co
 - UFPA https://progep.ufpa.br/progep/concursos.html
 - UTFPR https://portal.utfpr.edu.br/editais/concursos
 
+## Entidades e Organizações
+
+- Sociedade Brasileira de Computação https://www.sbc.org.br/
+
 ## Programas de Pós-Graduação
 
 Cursos Avaliados e Reconhecidos. Acesse
