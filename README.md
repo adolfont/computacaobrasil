@@ -17,5 +17,5 @@ Toda universidade ou instituto federal tem um site onde lista seus editais de co
 
 ## Programas de Pós-Graduação
 
-Cursos Avaliados e Reconhecidos
-https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/programa/quantitativos/quantitativoBuscaAvancada.xhtml
+Cursos Avaliados e Reconhecidos. Acesse
+https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/programa/quantitativos/quantitativoBuscaAvancada.xhtml e selecione "Ciência da Computação" em "Área de Avaliação".
