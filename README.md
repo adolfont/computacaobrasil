@@ -2,9 +2,10 @@
 
 Lista de links e recursos relativos à área acadêmica de Ciência da Computação no Brasil.
 
-## Lista de e-mail
+## Listas de e-mail
 
 - Computação Brasil: https://groups.google.com/g/computacaobrasil Grupo para a discussão independente da computação no Brasil. Inscreva-se enviando um email para computacaobrasil@googlegroups.com.
+- SBC-L: https://grupos.ufrgs.br/mailman/listinfo/Sbc-l/
 
 
 ## Concursos e Processsos Seletivos para professor
