@@ -27,6 +27,10 @@ https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/programa/quantita
 
 - Fronteiras da Engenharia de Software https://fronteirases.github.io/
 
+## Revistas
+
+- Computação Brasil (revista da SBC): https://www.sbc.org.br/publicacoes-mainmenu/computacao-brasil
+
 ## Pesquisadores e pesquisadoras brasileiros(as) trabalhando no exterior
 
 https://github.com/adolfont/brazilian-cs-research/blob/master/brazilian-cs-researchers-working-abroad.md
