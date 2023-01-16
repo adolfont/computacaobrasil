@@ -1,5 +1,12 @@
 # Computação Brasil
 
+## Lista de e-mail
+
+https://groups.google.com/g/computacaobrasil
+
+Grupo para a discussão independente da computação no Brasil.
+Inscreva-se enviando um email para computacaobrasil@googlegroups.com.
+
 
 ## Concursos e Processsos Seletivos 
 
