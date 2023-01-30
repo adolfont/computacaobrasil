@@ -35,6 +35,8 @@ https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/programa/quantita
 
 ## Laboratórios de Pesquisa
 
+-  [LABIC do ICMC da USP](http://labic.icmc.usp.br/) 
+
 ## Pesquisadores e pesquisadoras brasileiros(as) trabalhando no exterior
 
 https://github.com/adolfont/brazilian-cs-research/blob/master/brazilian-cs-researchers-working-abroad.md
