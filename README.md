@@ -33,6 +33,8 @@ https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/programa/quantita
 - Computação Brasil (revista da SBC): https://www.sbc.org.br/publicacoes-mainmenu/computacao-brasil
 - Revista Brasileira de Computação Aplicada (revista da UPF): http://seer.upf.br/index.php/rbca/index
 
+## Laboratórios de Pesquisa
+
 ## Pesquisadores e pesquisadoras brasileiros(as) trabalhando no exterior
 
 https://github.com/adolfont/brazilian-cs-research/blob/master/brazilian-cs-researchers-working-abroad.md
