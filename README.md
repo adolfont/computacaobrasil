@@ -13,6 +13,7 @@ Lista de links e recursos relativos à área acadêmica de Ciência da Computaç
 Toda universidade ou instituto federal tem um site onde lista seus editais de concursos e processos seletivos. Abaixo alguns exemplos.
 
 - UFPA https://progep.ufpa.br/progep/concursos.html
+- UFPB http://www.progep.ufpb.br/progep/colecoes/editais-docente
 - UTFPR https://portal.utfpr.edu.br/editais/concursos
 
 ## Entidades e Organizações
